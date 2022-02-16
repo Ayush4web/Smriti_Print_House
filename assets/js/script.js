@@ -1,0 +1,1 @@
+$(".carousel").carousel({interval:8e3,pause:"false"}),$(window).scroll(function(){var e=$(window).scrollTop();e>=50?$(".header_sec").addClass("fixed"):$(".header_sec").removeClass("fixed"),e>=50?$(".fixd-pnl").addClass("fixed1"):$(".fixd-pnl").removeClass("fixed1")});

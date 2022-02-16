@@ -1,0 +1,1 @@
+$(document).ready(function(){$(".home_testimonial_innr .owl-carousel").owlCarousel({margin:0,nav:!0,autoplay:!0,autoHeight:!0,loop:!0,responsive:{0:{items:1},600:{items:1},1000:{items:1}}})});

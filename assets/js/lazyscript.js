@@ -1,0 +1,1 @@
+function lazyLoadIt(){var o=$(window).scrollTop();$(".lazy_box").each(function(){var i=$(window).height(),t=$(this).position().top;o+(i-.2*i)>=t&&$(this).css("opacity","1")})}lazyLoadIt(),$(window).scroll(function(){lazyLoadIt()}),$(window).resize(function(){lazyLoadIt()});
