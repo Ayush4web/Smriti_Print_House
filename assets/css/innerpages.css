@@ -305,7 +305,7 @@
 }
 .portfolio_thumb_hover {
     width: 100%;
-    background: url(../images/hover-bg.png) no-repeat 0 0;
+    background:skyblue;
     background-size: auto;
     background-size: cover;
     position: absolute;
@@ -1467,7 +1467,7 @@
     width: 100%;
 }
 .portfolio_box:hover {
-    border-bottom: 3px solid #f78e12;
+    border-bottom: 3px solid rgb(8, 8, 98);
 }
 .fancybox-close {
     background: url(../images/cross.png) no-repeat 0 0 !important;

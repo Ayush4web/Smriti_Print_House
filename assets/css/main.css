@@ -3946,3 +3946,19 @@ textarea::-webkit-placeholder {
     font-size: 1.3rem !important ;
     line-height: 1.5 !important;
 }
+.icon img{
+    height: 1.8rem;
+    transform: translateX(-5px);
+}
+.icon i{
+margin-right: 6px;
+}
+.icon{
+    color: rgb(15, 2, 88);
+    font-size: 1.2rem;
+   
+    
+}
+.whatCanTxt img{
+ width: 100%;
+}
