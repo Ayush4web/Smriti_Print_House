@@ -279,6 +279,7 @@
     border-radius: 2px;
 }
 .portfolio_thumb_txt {
+    text-align: center;
     width: 100%;
     background: rgba(0, 0, 0, 0.42);
     position: absolute;
@@ -298,7 +299,7 @@
     color: #fff;
 }
 .portfolio_thumb_txt p {
-    font: 700 15px/18px Roboto, sans-serif;
+    font: 700 20px/18px Roboto, sans-serif;
     color: #fff;
     padding: 10px 0 0;
     text-transform: capitalize;
@@ -3178,6 +3179,7 @@
     }
     .portfolio_thumb_txt {
         padding: 10px;
+        
     }
     .portfolio_thumb_txt h3 {
         font-size: 32px;
