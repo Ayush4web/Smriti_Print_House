@@ -336,7 +336,7 @@
 .portfolio_thumb_hoverBox span.hover_heading {
     width: 100%;
     display: inline-block;
-    font: 700 40px/44px Roboto, sans-serif;
+    font: 700 32px/44px Roboto, sans-serif;
     color: #fff;
 }
 .portfolio_thumb_hoverBox a.view_more {
