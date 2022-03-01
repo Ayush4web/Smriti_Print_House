@@ -1451,7 +1451,7 @@
 .portfolio_txt {
     width: 100%;
     padding: 15px 20px;
-    text-align: left;
+    text-align: center;
     display: inline-block;
 }
 .portfolio_txt span {
